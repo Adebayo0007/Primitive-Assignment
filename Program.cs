@@ -86,3 +86,17 @@ Console.WriteLine("Ulong Minimun: " + ulong.MinValue  + " Ulong Maximum: " + ulo
 
 //Number 2
 
+float @float = 5;
+
+double @double = -5.01;
+double @double1 = 5;
+double @double2 = 34.567839023;
+double @double3 = 12.345;
+double @double4 = 8923.1234857;
+double @double5 = 3456.091124875956542151256683467;
+
+decimal @decimal1 = 5;
+
+Console.WriteLine("Float Minimum: " + float.MinValue + " Float Maximum: " + float.MaxValue);
+Console.WriteLine("Double Minimum: " + Double.MinValue + " Double Maximum: " + Double.MaxValue);
+Console.WriteLine("Decimal Minimum: " + Decimal.MinValue + " Decimal Maximum: " + Decimal.MaxValue);

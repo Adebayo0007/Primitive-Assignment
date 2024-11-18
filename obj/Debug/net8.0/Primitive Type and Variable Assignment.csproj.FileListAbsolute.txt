@@ -12,3 +12,4 @@ C:\Users\user\Desktop\Primitive Type and Variable Assignment\obj\Debug\net8.0\re
 C:\Users\user\Desktop\Primitive Type and Variable Assignment\obj\Debug\net8.0\Primitive Type and Variable Assignment.pdb
 C:\Users\user\Desktop\Primitive Type and Variable Assignment\obj\Debug\net8.0\Primitive Type and Variable Assignment.genruntimeconfig.cache
 C:\Users\user\Desktop\Primitive Type and Variable Assignment\obj\Debug\net8.0\ref\Primitive Type and Variable Assignment.dll
+C:\Users\user\Desktop\Primitive Type and Variable Assignment\obj\Debug\net8.0\Primitive Type and Variable Assignment.sourcelink.json
