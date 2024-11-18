@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Primitive Type and Variable Assignment/1.0.0": {
+        "runtime": {
+          "Primitive Type and Variable Assignment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Primitive Type and Variable Assignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

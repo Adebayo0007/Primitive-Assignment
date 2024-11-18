@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Primitive Type and Variable Assignment\bin\Debug\net8.0\Primitive Type and Variable Assignment.exe
+C:\Users\user\Desktop\Primitive Type and Variable Assignment\bin\Debug\net8.0\Primitive Type and Variable Assignment.deps.json
+C:\Users\user\Desktop\Primitive Type and Variable Assignment\bin\Debug\net8.0\Primitive Type and Variable Assignment.runtimeconfig.json
+C:\Users\user\Desktop\Primitive Type and Variable Assignment\bin\Debug\net8.0\Primitive Type and Variable Assignment.dll
+C:\Users\user\Desktop\Primitive Type and Variable Assignment\bin\Debug\net8.0\Primitive Type and Variable Assignment.pdb
+C:\Users\user\Desktop\Primitive Type and Variable Assignment\obj\Debug\net8.0\Primitive Type and Variable Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Primitive Type and Variable Assignment\obj\Debug\net8.0\Primitive Type and Variable Assignment.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Primitive Type and Variable Assignment\obj\Debug\net8.0\Primitive Type and Variable Assignment.AssemblyInfo.cs
+C:\Users\user\Desktop\Primitive Type and Variable Assignment\obj\Debug\net8.0\Primitive Type and Variable Assignment.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Primitive Type and Variable Assignment\obj\Debug\net8.0\Primitive Type and Variable Assignment.dll
+C:\Users\user\Desktop\Primitive Type and Variable Assignment\obj\Debug\net8.0\refint\Primitive Type and Variable Assignment.dll
+C:\Users\user\Desktop\Primitive Type and Variable Assignment\obj\Debug\net8.0\Primitive Type and Variable Assignment.pdb
+C:\Users\user\Desktop\Primitive Type and Variable Assignment\obj\Debug\net8.0\Primitive Type and Variable Assignment.genruntimeconfig.cache
+C:\Users\user\Desktop\Primitive Type and Variable Assignment\obj\Debug\net8.0\ref\Primitive Type and Variable Assignment.dll
